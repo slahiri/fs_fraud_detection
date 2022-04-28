@@ -1,1 +1,1 @@
-print("Hello World")
+print("Getting started with new model")
